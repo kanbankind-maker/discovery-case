@@ -1,0 +1,6 @@
+segment_id,segment_name,size_pct,avg_order_value_rub,product_to_cart_conv,cart_to_purchase_conv,promo_dependency_pct,main_dropoff_stage
+A,Молодёжь 18-24,0.28,1840,0.23,0.79,0.75,checkout
+B,Семья 30-45,0.31,3450,0.23,0.82,0.69,product_view
+C,Пенсионеры 55+,0.14,2100,0.23,0.72,0.73,entry_to_browse
+D,МСБ/ИП,0.11,8700,0.23,0.80,0.66,product_view
+E,Активные инвесторы,0.16,5200,0.23,0.83,0.68,cart_add
